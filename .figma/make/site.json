@@ -1,0 +1,10 @@
+{
+  "description": "Monitors smart manhole covers by providing real-time status updates and alerts to enhance urban infrastructure safety and maintenance efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
