@@ -7,7 +7,7 @@ body {
   background: #f1f5f9;
 }
 .mono { font-family: 'JetBrains Mono', monospace; }
-::-webkit-scrollbar { width: 0; }
+::-webkit-scrollbar { width: 0; height: 0; }
 
 @keyframes blink {
   0%, 100% { opacity: 1; }
